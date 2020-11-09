@@ -1,16 +1,5 @@
-{
-    "users": [
+{ 
+    "users": [],
 
-    ],
-    "accounts": [
-
-    ],
-    "transactions": [
-
-    ],
-    "payees":[
-        
-    ]
-    
-
+    "TICKET": []
 }
